@@ -11,5 +11,10 @@
 
     <artifactId>server</artifactId>
 
+    <properties>
+        <maven.compiler.source>1.15</maven.compiler.source>
+        <maven.compiler.target>1.15</maven.compiler.target>
+    </properties>
+
 
 </project>
